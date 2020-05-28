@@ -1,2 +1,3 @@
 # my-wp-plugins
-Wordpress Plugins
+
+A listing of wordpress plugins used for various websites
