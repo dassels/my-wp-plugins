@@ -187,8 +187,20 @@ function add_custom_html() {
                 foreach($categories as $cat){
                     if( 'books' == $cat->slug ) {
                         echo $content;
-
                     }
+										if( 'livres' == $cat->slug ) {
+												echo $content;
+										}
+										if( 'libros' == $cat->slug ) {
+												echo $content;
+										}
+										if( 'bucher' == $cat->slug ) {
+												echo $content;
+										}
+										if( 'boeken' == $cat->slug ) {
+												echo $content;
+										}
+
                 }
 
 
